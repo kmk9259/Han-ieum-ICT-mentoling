@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "seismic-honor-202609",
+  "private_key_id": "e42367118d985aab39510405b6bcc9b7e1c0e937",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCuGx2VmH/AEWa/\nPh5PAlSKy9CJr1/P9hEG775fpsGAUfvmiqbsaZTTIujtzomHnqF4+B8PEhc9eumu\nw1vQ/ZL2vMvMcUOHnP2ffVPzAuBufuwAf6Q+5PQeRVmD+jlPZ0NhEPK63+WqFGKJ\nuexUX2rWfZzPSsJwSLmGxzR7Sg+x4FxVYYYlkWewjbvIgavBqi964UDWaDzZwkh8\n5qk0Enl4xIBzK5WSNlyXmQyuB0PLKbUE8vZRZTOKIJuiMDeIj0kMdy/D1Iyg2rw+\nmrC33ONr00fkUIep0f0YK9QsfgdTV0MUei6bk4CcnqATBrv1F+5W+t04D9uFkB64\nVu4K+b1hAgMBAAECggEACmv/GlxVkVa5UstSHyKhkuleY0+HKbiuDj89oxYlURwX\nOxajpVUwnm7hiJKrct3RBp+7pDhOAdUgteBl153GNVTZ0jQZeb2xBOIIq2xJqPOa\nBvGdEFK+Ni2qjRbmZVVmGCJelUcfxU2RFHN3rRlFGO/N+i6ccwI3cNTt1E97nwcY\np1WCy0NVLmyvzJVLD7QnAleORJBwd+MibCKmlxW8WsIg1MlDVjPbYv7S9rZonaMu\nRCOGI5R54fOkSJ7osLBZZjB600Asq2TMiRm29omXDmoSQyegYTC9UF88xno1Zwzp\nJYjOCVDXINDrfo0ZEExn6zFL006Hs57Jc6a2TbkzEQKBgQDvD7BkIcS7Z0Nm1g9K\n9AspmB3IzD1Ccnhuib4ExZxT7Nr1QZl6D9kEz8Kh0vNkYVIlO0DJxNdd2xSdjcfP\nqoImis8UT3LTwfhZIeP/sZVywlFCVjfKIfaBAAR4miKklFxcIE+H+c9T2RVhJu8l\n3feb+NKzV7US33Y4qYEqHLq0hQKBgQC6cTUB27lUArEYgJGYAphitoxaVx/Af/sy\njNURKmDHeuoG/X16feoglWF7IoJDxkIQ6LTU1oOwlyD9WEL+X9fhR8hHEDaohP75\nVqURdOreOht1x+u+dMt2zSNuxpAe3NjTWQ5K37PU84/AS2SMaBQay7U/C5ilZpM0\niFTSdFCaLQKBgChEbULAiWHDqA/HWLYYW1T7QXEULfFmVLDR1Mb6/jUIvWz4SsDL\nsJNl53PYk5TB69NHoscZt+kgQN21BwYMw3V4hh72rvHKR2nEEqJ8KB83afaRjT4n\n8FyUQyyJUfKE5vXBn4PY6TpHY5mEtF2dgNqt09fPmzl9mG085/vO8Qf9AoGALrcQ\n5g9NB3zJLO+CC4mS7yD4V+Z+oTgwE8Fv3aY1q6Xjn67CUv/buyBS1YyXAS5a/Wuh\na7b4NjYX4QLNfnk7WUooJ44rc9wnGwiXwaD+/IGowcE/E3CmTnUmDKqaD/GcLpCg\n4SfeIlyIx1Dct8WYTAKAvnREYiUqez4xqq3USF0CgYAaSPfMNQet2AvuwoQ88MHA\n11ujhyOuwLqXID4w+hjeqhQba/DvW71WW8EFm7CNUv3fWtXj805tvrL+E2rv9kKE\n6V/4H9MXWfrr9jjwMmi0ILY8tU4C2S+zSSPi+Q4uLDnfADqQ0P62OBnm9NWlCbwk\njfkBE9T5ie7SyFA5G+1N7g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mtonic0317@seismic-honor-202609.iam.gserviceaccount.com",
+  "client_id": "101978018109444902910",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mtonic0317%40seismic-honor-202609.iam.gserviceaccount.com"
+}
